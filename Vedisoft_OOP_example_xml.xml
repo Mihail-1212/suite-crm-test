@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contacts>
+    <contact>
+        <FirstName>Tanmay</FirstName>
+        <LastName>Patil</LastName>
+        <Title>Senior Product Manager</Title>
+        <Email>tanmaypatil@xyz.com</Email>
+        <Info>
+            <department>Ms.2</department>
+            <Do_not_call>1</Do_not_call>
+        </Info>
+    </contact>
+    <contact>
+        <FirstName>Evgenyi</FirstName>
+        <LastName>Potapov</LastName>
+        <Title>Product Manager</Title>
+        <Email>potapov@xyz.com</Email>
+        <Info>
+            <department>Dear</department>
+            <Do_not_call>0</Do_not_call>
+        </Info>
+    </contact>
+</contacts>
